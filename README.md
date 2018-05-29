@@ -8,7 +8,7 @@ Les éléments qui ont participé à ce projet sont TOUIL Lynda, BELMOKHTAR Mari
 
 Pour le contenu du projet on a essayé de notre bien de faire les défis mathématiques mais malheureusement on y est pas arrivé:
 
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #1er
 On avait pensé pour le 1er de chercher tous les nombres parfaits compris entre A et B puis chercher les combinaisons qui les donnent mais c'est aussi trop , une deuxième idée est venue par la suite était de chercher des propriétés de ce nombre et effectivement on a trouvé mais on est toujours obligé de faire le test pour tous les éléments qui sont entre A et B la propriété était la suivante :"......" .
 
