@@ -1,5 +1,5 @@
-#PYTHON
-#Notre deuxième et dernier  projet en cette année est programmé sur python , ce dernier est construit de 3 parties : 2 défis mathématiques et un jeu nommé "Nim".
+
+Notre deuxième et dernier  projet en cette année est programmé sur python , ce dernier est construit de 3 parties : 2 défis mathématiques et un jeu nommé "Nim".
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
